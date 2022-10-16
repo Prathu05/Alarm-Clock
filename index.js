@@ -1,6 +1,7 @@
 
-let audio = new Audio('alarm.mp3');
+let audio = new Audio('alarm-voice.mp3');
 // audio.play()
+
 
 document.getElementById('closeBtn').style.display = 'none';
 
